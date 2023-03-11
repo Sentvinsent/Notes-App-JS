@@ -1,0 +1,3 @@
+node_modules/
+/public/scripts/index-bundle.js
+/public/scripts/note-bundle.js
