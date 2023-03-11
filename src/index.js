@@ -5,7 +5,7 @@ import { renderNotes } from "./views";
 //Add new element
 const addNote = () => {
     const id = createNote();
-    location.assign(`note.html#${id}`);
+    location.assign(`./note.html#${id}`);
 }
 
 renderNotes()
